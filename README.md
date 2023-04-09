@@ -35,7 +35,7 @@
         
         <span class="hljs-string">"Principles"</span>:       [<span class="hljs-string">"OOP"</span>, <span class="hljs-string">"SOLID"</span>]
         <span class="hljs-string">"Layout"</span>:           [<span class="hljs-string">"UIKit"</span>, <span class="hljs-string">"AutoLayout"</span>, <span class="hljs-string">"SnapKit"</span>, <span class="hljs-string">"Storyboard"</span>]
-        <span class="hljs-string">"Dependensies"</span>:     [<span class="hljs-string">"CocoaPods"</span>, <span class="hljs-string">"SPM"</span>, <span class="hljs-string">"Carthage"</span>]
+        <span class="hljs-string">"Dependenсies"</span>:     [<span class="hljs-string">"CocoaPods"</span>, <span class="hljs-string">"SPM"</span>, <span class="hljs-string">"Carthage"</span>]
         <span class="hljs-string">"Storage"</span>:          [<span class="hljs-string">"Core Data"</span>, <span class="hljs-string">"UserDefaults"</span>, <span class="hljs-string">"FileManager"</span>, <span class="hljs-string">"Realm"</span>]
         <span class="hljs-string">"Networking"</span>:       [<span class="hljs-string">"URLSession"</span>, <span class="hljs-string">"JSON Parse"</span>, <span class="hljs-string">"REST API"</span>, <span class="hljs-string">"Firebase"</span>]
         <span class="hljs-string">"Multithreading"</span>:   [<span class="hljs-string">"GCD"</span>, <span class="hljs-string">"DQ's"</span>]
