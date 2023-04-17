@@ -27,7 +27,7 @@
 </div>
 
 ### Hi there 👋
-
+<!--
 <pre><code class="hljs" style="background:#FFFFFF;border-radius:8px"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">IOSDeveloper</span> </span>{
 
 
@@ -58,7 +58,7 @@
         <span class="hljs-string">"AppStore / TestFlight"</span>
 }</code></pre>
 
-<!--
+
 **Privetyanikita/Privetyanikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
