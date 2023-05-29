@@ -1,4 +1,4 @@
-
+### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
 </div>
@@ -26,7 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=Privetyanikita&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 
-### Hi there 👋
 <!--
 <pre><code class="hljs" style="background:#FFFFFF;border-radius:8px"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">IOSDeveloper</span> </span>{
 
