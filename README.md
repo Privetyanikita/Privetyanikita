@@ -26,38 +26,42 @@
   <img src="https://komarev.com/ghpvc/?username=Privetyanikita&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 
-<!--
-<pre><code class="hljs" style="background:#FFFFFF;border-radius:8px"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">IOSDeveloper</span> </span>{
+
+```swift
+     let name = "Nikita"
+     let age = 20
+     let languages = "Swift"
 
 
-     <span class="hljs-keyword">var</span> myStackDictionary: [<span class="hljs-type">String</span>: [<span class="hljs-type">String</span>]] = [
+     var myStackTechnologiesDictionary: [String: [String]] = [
         
-        <span class="hljs-string">"Principles"</span>:       [<span class="hljs-string">"OOP"</span>, <span class="hljs-string">"SOLID"</span>]
-        <span class="hljs-string">"Layout"</span>:           [<span class="hljs-string">"UIKit"</span>, <span class="hljs-string">"AutoLayout"</span>, <span class="hljs-string">"SnapKit"</span>, <span class="hljs-string">"Storyboard"</span>]
-        <span class="hljs-string">"Dependenсies"</span>:     [<span class="hljs-string">"CocoaPods"</span>, <span class="hljs-string">"SPM"</span>, <span class="hljs-string">"Carthage"</span>]
-        <span class="hljs-string">"Storage"</span>:          [<span class="hljs-string">"Core Data"</span>, <span class="hljs-string">"UserDefaults"</span>, <span class="hljs-string">"FileManager"</span>, <span class="hljs-string">"Realm"</span>]
-        <span class="hljs-string">"Networking"</span>:       [<span class="hljs-string">"URLSession"</span>, <span class="hljs-string">"JSON Parse"</span>, <span class="hljs-string">"REST API"</span>, <span class="hljs-string">"Firebase"</span>]
-        <span class="hljs-string">"Multithreading"</span>:   [<span class="hljs-string">"GCD"</span>, <span class="hljs-string">"DQ's"</span>]
-        <span class="hljs-string">"Arch. patterns"</span>:   [<span class="hljs-string">"MVC"</span>, <span class="hljs-string">"MVVM"</span>, <span class="hljs-string">"MVVM+C"</span>, <span class="hljs-string">"MVP"</span>, <span class="hljs-string">"MVP+C"</span>]
-        <span class="hljs-string">"Struct. patterns"</span>: [<span class="hljs-string">"Delegate"</span>, <span class="hljs-string">"Singleton"</span>, <span class="hljs-string">"Factory"</span>, <span class="hljs-string">"Observer"</span>, <span class="hljs-string">"Facade"</span>]
-        <span class="hljs-string">"GUI"</span>:              [<span class="hljs-string">"Git"</span>, <span class="hljs-string">"GitHub"</span>]
-        <span class="hljs-string">"Graphics"</span>:         [<span class="hljs-string">"Figma"</span>, <span class="hljs-string">"Photoshop"</span>]
+        "Principles":       ["OOP", "SOLID"]
+        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
+        "Dependensies":     ["SPM"]
+        "Storage":          ["Core Data", "UserDefaults", "FileManager"]
+        "Networking":       ["URLSession", "JSON Parse", "Firebase"]
+        "ArchPatterns":     ["MVC", "MVP"]
+        "Struct. patterns": ["Delegate", "Factory"]
+        "GUI":              ["Git", "GitHub"]
+        "Graphics":         ["Figma", "Photoshop"]
     ]
     
-     <span class="hljs-keyword">var</span> otherTechnologies: [<span class="hljs-type">String</span>] = [
+     var otherTechnologies: [String] = [
 
-        <span class="hljs-string">"SwiftUI"</span>,
-        <span class="hljs-string">"MapKit"</span>,
-        <span class="hljs-string">"Push / Local Notifications"</span>,
-        <span class="hljs-string">"Multimedia (AVFoundation, Core Audio, AVKit)"</span>,
-        <span class="hljs-string">"BLE"</span>,
-        <span class="hljs-string">"iCloud"</span>,
-        <span class="hljs-string">"Core Animation"</span>,
-        <span class="hljs-string">"RXSwift"</span>,
-        <span class="hljs-string">"AppStore / TestFlight"</span>
-}</code></pre>
+        "MapKit",
+        "Local Notifications",
+        "Multimedia (AVFoundation, Core Audio, AVKit)",
+        "iCloud",
+        "Core Animation",
+        "ChatGPT"
+    ]
+}
 
+let me = IOSDeveloper()
+print (name, terminator: "")
+```
 
+<!--
 **Privetyanikita/Privetyanikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
