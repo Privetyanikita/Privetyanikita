@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nikita-kornuk-825818202/">
+  <a href="https://www.linkedin.com/in/mykyta-korniuk">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/privetyanikita_/">
