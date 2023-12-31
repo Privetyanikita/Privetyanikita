@@ -28,22 +28,23 @@
 
 
 ```swift
+struct IOSDeveloper {
      let name = "Nikita"
-     let age = 21
+     var age = 21
      let languages = "Swift"
 
 
      var myStackTechnologiesDictionary: [String: [String]] = [
         
-        "Principles":       ["OOP", "SOLID"]
-        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
-        "Dependensies":     ["SPM"]
-        "Storage":          ["Realm", "UserDefaults", "FileManager"]
-        "Networking":       ["URLSession", "JSON Parse", "Firebase"]
-        "ArchPatterns":     ["MVC"]
-        "Struct. patterns": ["Delegate"]
-        "GUI":              ["Git", "GitHub"]
-        "Graphics":         ["Figma", "Photoshop"]
+        "Principles":       ["OOP", "SOLID"],
+        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
+        "Dependensies":     ["SPM"],
+        "Storage":          ["Realm", "UserDefaults", "FileManager"],
+        "Networking":       ["URLSession", "JSON Parse", "Firebase"],
+        "ArchPatterns":     ["MVC"],
+        "Struct. patterns": ["Delegate"],
+        "GUI":              ["Git", "GitHub"],
+        "Graphics":         ["Figma", "Photoshop"],
     ]
     
      var otherTechnologies: [String] = [
@@ -57,8 +58,6 @@
     ]
 }
 
-let me = IOSDeveloper()
-print (name, terminator: "")
 ```
 
 <!--
