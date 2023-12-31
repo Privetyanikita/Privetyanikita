@@ -25,11 +25,11 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Privetyanikita&style=flat-square&color=blue" alt="" width="100"/>
 </div>
-<!--
+
 
 ```swift
      let name = "Nikita"
-     let age = 20
+     let age = 21
      let languages = "Swift"
 
 
@@ -38,10 +38,10 @@
         "Principles":       ["OOP", "SOLID"]
         "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
         "Dependensies":     ["SPM"]
-        "Storage":          ["Core Data", "UserDefaults", "FileManager"]
+        "Storage":          ["Realm", "UserDefaults", "FileManager"]
         "Networking":       ["URLSession", "JSON Parse", "Firebase"]
-        "ArchPatterns":     ["MVC", "MVP"]
-        "Struct. patterns": ["Delegate", "Factory"]
+        "ArchPatterns":     ["MVC"]
+        "Struct. patterns": ["Delegate"]
         "GUI":              ["Git", "GitHub"]
         "Graphics":         ["Figma", "Photoshop"]
     ]
@@ -61,7 +61,7 @@ let me = IOSDeveloper()
 print (name, terminator: "")
 ```
 
-
+<!--
 **Privetyanikita/Privetyanikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
