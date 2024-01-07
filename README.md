@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=Privetyanikita&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 
-
+<!--
 ```swift
 struct IOSDeveloper {
      let name = "Nikita"
@@ -60,7 +60,7 @@ struct IOSDeveloper {
 
 ```
 
-<!--
+
 **Privetyanikita/Privetyanikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
