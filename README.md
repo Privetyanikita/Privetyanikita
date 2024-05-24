@@ -6,17 +6,11 @@
   <a href="https://www.linkedin.com/in/mykyta-korniuk">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/privetyanikita_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://t.me/privetyanikita">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://github.com/Privetyanikita">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-     <a href="https://www.facebook.com/privetyanikita/">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
     <a href="https://www.codewars.com/users/PrivetyaNikita">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
