@@ -20,7 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=Privetyanikita&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 
-<!--
 ```swift
 struct IOSDeveloper {
      let name = "Nikita"
@@ -32,10 +31,10 @@ struct IOSDeveloper {
         
         "Principles":       ["OOP", "SOLID"],
         "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
-        "Dependensies":     ["SPM"],
+        "Dependensies":     ["SPM", "CocoaPods"],
         "Storage":          ["Realm", "UserDefaults", "FileManager"],
         "Networking":       ["URLSession", "JSON Parse", "Firebase"],
-        "ArchPatterns":     ["MVC"],
+        "ArchPatterns":     ["MVC", "MVP"],
         "Struct. patterns": ["Delegate"],
         "GUI":              ["Git", "GitHub"],
         "Graphics":         ["Figma", "Photoshop"],
@@ -53,7 +52,7 @@ struct IOSDeveloper {
 }
 
 ```
-
+<!--
 
 **Privetyanikita/Privetyanikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
