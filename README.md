@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW54ajFzcmM1YnB2c2lzM3phaDRuaHpjMmJ0bzk5cXh5ejd2OWd0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.webp" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mykyta-korniuk">
