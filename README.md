@@ -23,7 +23,7 @@
 ```swift
 struct IOSDeveloper {
      let name = "Nikita"
-     var age = 21
+     var age = 23
      let languages = "Swift"
 
 
