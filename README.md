@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mykyta-korniuk">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/privetyanikita">
+  <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://github.com/Privetyanikita">
